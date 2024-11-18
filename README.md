@@ -86,11 +86,6 @@ That is not a valid choice
 **************************
 ```
 
-### **Requirements**
-- Python 3.x
-
----
-
 ### **Author**
 This program was created as a basic Python project to demonstrate programming concepts such as:
 - User input handling
